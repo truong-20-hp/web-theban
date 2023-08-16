@@ -148,7 +148,7 @@ html{
 #slider{
     padding-top: 50%;
     margin-top: 46px;
-    background: url(/w3-theband/assets/img/anh1.jpg) top center / cover no-repeat; 
+    background: url(../img/anh1.jpg) top center / cover no-repeat; 
     position: relative;
 }
 #slider .text-content{

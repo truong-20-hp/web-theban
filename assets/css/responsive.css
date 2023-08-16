@@ -1,0 +1,19 @@
+/* MOBI AND TABLET */
+@media (max-width: 1023px){
+    .hide-on-mobi-tablet{
+        display: none;
+    }
+
+}
+
+/* tablet */
+@media (min-width: 740px) and (max-width: 1023px){
+    .hide-on-tablet{
+        display: none;
+    }
+}
+
+/* mobi */
+@media (max-width: 739px){
+    
+}
